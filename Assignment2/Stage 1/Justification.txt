@@ -1,0 +1,1 @@
+With the new price column being 86% missing, i have dropped it from the data without it being capable of representing the data. For categorical, I have chosen mode, and for numerical I have chosen mean to add to missing values of other tables
